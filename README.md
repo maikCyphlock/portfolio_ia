@@ -36,3 +36,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+¿Qué tecnologías has utilizado en tus proyectos personales para desarrollar un clon de Minecraft y una aplicación con Astro?
+
+¿Cómo demuestras tu habilidad para resolver problemas y utilizar ganchos de biblioteca en React y Next.js en tus proyectos?
+
+¿Qué contribuciones has hecho al proyecto Kings League, en particular en la sección de reglas y los estados de GitHub en el archivo README?
+
+¿Cómo te describirías como desarrollador web junior en términos de tus habilidades y enfoque en el desarrollo frontend, así como tus estudios de inglés para mejorar tus habilidades lingüísticas? 
