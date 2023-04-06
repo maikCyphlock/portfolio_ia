@@ -8,7 +8,7 @@ function Cv() {
             </figure>
             <h1>Maikol D. Aguilar F.</h1>
             <p>
-                I'm a junior full stack developer with a passion for technology and a focus on frontend development. I'm a proactive and creative problem solver with a dedication to clean code and efficient business logic. Furthermore, I'm also studying English to improve my language skills.
+                I am a junior full stack developer with a passion for technology and a focus on frontend development. I am a proactive and creative problem solver with a dedication to clean code and efficient business logic. Furthermore, I am also studying English to improve my language skills.
             </p>
             <p >
                 Through my personal projects, I have demonstrated proficiency in React and Next.js, as well as knowledge of Vite, ThreeJS, and Zustand. I have developed a minimal Minecraft clone using these technologies, showcasing my problem-solving skills and ability to utilize library hooks. Additionally, I have created an app with Astro that retrieves data from the backend and deploys the API every hour through GitHub actions. I have also contributed to the Kings League Project by making the rules section and GitHub statuses of the README. Overall, these projects demonstrate my passion for learning and my commitment to constantly improving my skills as a web
@@ -58,7 +58,7 @@ function Cv() {
                     contributor of the Kings League - OSS project
                 </h4>
                 <p>
-                    I have had the opportunity to participate with midudev's open source project and contribute to make the rules section and the GitHub statuses of the README <a href="https://github.com/midudev/kings-league-project" >
+                    I have had the opportunity to participate with midudev open source project and contribute to make the rules section and the GitHub statuses of the README <a href="https://github.com/midudev/kings-league-project" >
                         https://github.com/midudev/kings-league-project.
                     </a>
                 </p>
@@ -68,7 +68,7 @@ function Cv() {
                 <h2>education</h2>
                 <h4>Non-traditional study</h4>
                 <ul>
-                    <li>learning with freeCodeCamp, YouTube and MDN documentation, reading books such as: you don't know JavaScript, and doing think by myself also when I’ve got stuck I search on Stack Overflow and google</li>
+                    <li>learning with freeCodeCamp, YouTube and MDN documentation, reading books such as: you dont know JavaScript, and doing think by myself also when I’ve got stuck I search on Stack Overflow and google</li>
                 </ul>
             </section>
             <section>
@@ -78,7 +78,7 @@ function Cv() {
             </section>
             <section>
                 <h4>UNESR (universidad Nacional experimental Simon rodrigues)</h4>
-                <h5>English bachelor's master degree</h5>
+                <h5>English bachelor master degree</h5>
                 <p>Oct 2019 — Present</p>
             </section>
             <section>

@@ -39,7 +39,7 @@ const useOpenAI = (prmt) => {
     
     return () => setLoading(false)
 
-  }, [prompt]);
+  }, [prompt, setError, setLoading, setSearchResult]);
 
   return [ setPrompt];
 };

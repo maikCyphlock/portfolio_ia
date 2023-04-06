@@ -1,6 +1,6 @@
 "use client"
 import { Inter } from "next/font/google";
-import Search from "@/components/search";
+import Search from "@/components/Search";
 import Cv from "@/components/Cv";
 import PromptCards from "@/components/PromptCards";
 import useStore from "@/components/SearchContext";
