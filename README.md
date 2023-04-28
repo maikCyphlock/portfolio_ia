@@ -1,4 +1,5 @@
- <h1>Portfolio de Maikol Aguilar con ChatGPT</h1>
+ ![Mockup 01](https://user-images.githubusercontent.com/66704744/234037415-348f04bb-a63b-4fcf-b10d-af8148882ad8.png)
+<h1>Portfolio de Maikol Aguilar con ChatGPT</h1>
     <p>Este es el portfolio de Maikol Aguilar, un desarrollador full-stack con una fuerte pasión por la tecnología y un enfoque en el desarrollo frontend. Este portfolio utiliza ChatGPT para responder preguntas a los reclutadores de manera eficiente y rápida.</p>
     <h2>Tecnologías utilizadas:</h2>
     <ul>
