@@ -1,15 +1,14 @@
-
 import { create } from 'zustand'
 
 const useStore = create((set) => ({
-  searchResult: "s",
+  searchResult: '',
   loading: false,
   text: '',
   error: '',
-  setSearchResult: async(searchResult) => set({ searchResult }),
-  setLoading: async(loading) => set({ loading }),
+  setSearchResult: (searchResult) => set({ searchResult }),
+  setLoading: (loading) => set({ loading }),
   setText: (text) => set({ text }),
-  setError: (error) => set({ error }),
+  setError: (error) => set({ error })
 }))
 
 export default useStore

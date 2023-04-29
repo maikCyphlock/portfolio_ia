@@ -1,27 +1,22 @@
-"use client";
-import React,{useEffect, useState} from 'react'
-import useStore from './SearchContext';
-import useOpenAI from './useOpenAI';  
+'use client'
+import useStore from './SearchContext'
+import useOpenAI from './useOpenAI'
 
+function Search () {
+  const text = useStore((state) => state.text)
+  const setText = useStore((state) => state.setText)
+  const loading = useStore((state) => state.loading)
+  const [setPrompt] = useOpenAI('eres el asistente personal de maikol aguilar y responderas todas las preguntas')
 
-function Search() {
-  const text= useStore((state) => state.text);
-  const setText  = useStore((state) => state.setText);
-  const loading = useStore((state) => state.loading);
-  const [setPrompt] = useOpenAI("eres el asistente personal de maikol aguilar y responderas todas las preguntas")
-  
-    
-    const HandlerSubmit = (e) => {
-      e.preventDefault()
-      setPrompt(text)
-  
-    }
-    const HandlerText = (event) => {
-        setText(event.target.value)
-        // setSearchResult(response.choices[0].text)
-      
-    }
-    
+  const HandlerSubmit = (e) => {
+    e.preventDefault()
+    setPrompt(text)
+  }
+  const HandlerText = (event) => {
+    setText(event.target.value)
+    // setSearchResult(response.choices[0].text)
+  }
+
   return (
     <form className="w-full max-w-lg relative" onSubmit={HandlerSubmit} >
         <div className="flex items-center bg-white border rounded-lg shadow-lg overflow-hidden p-1 hover:border-1 hover:border-green-300 focus:border-green-300">
